@@ -1,0 +1,563 @@
+[
+    {
+        "id": 1001,
+        "name": "Map",
+        "category": "Dashboards",
+        "body": "Johns Hopkins University",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://coronavirus.jhu.edu/map.html",
+        "imageName": "JHdb"
+    },
+    
+    {
+        "id": 1002,
+        "name": "Infographic",
+        "category": "Dashboards",
+        "body": "Oxford Martin School | University of Oxford",
+        "state": "UK",
+        "isFavorite": false,
+        "site": "https://ourworldindata.org/coronavirus-data",
+        "imageName": "OWIDdb"
+    },
+    
+    {
+        "id": 1003,
+        "name": "Infographic Datapack",
+        "category": "Dashboards",
+        "body": "Information is Beautiful",
+        "state": "UK",
+        "isFavorite": false,
+        "site": "https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack",
+        "imageName": "IIBdb"
+    },
+    
+    {
+        "id": 1004,
+        "name": "Map",
+        "category": "Dashboards",
+        "body": "University of Washington",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://hgis.uw.edu/virus/",
+        "imageName": "UWdb"
+    },
+    
+    {
+        "id": 1005,
+        "name": "Dashboard",
+        "category": "Dashboards",
+        "body": "University of Virginia",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://nssac.bii.virginia.edu/covid-19/dashboard/",
+        "imageName": "UVdb"
+    },
+    
+    {
+        "id": 1006,
+        "name": "Infographic",
+        "category": "Dashboards",
+        "body": "Worldometer",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.worldometers.info/coronavirus/",
+        "imageName": "WMdb"
+    },
+    
+    {
+        "id": 1007,
+        "name": "Infographic",
+        "category": "Dashboards",
+        "body": "South China Morning Post",
+        "state": "Hong Kong",
+        "isFavorite": false,
+        "site": "https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html?src=article-launcher",
+        "imageName": "SCMPdb"
+    },
+    
+    {
+        "id": 1008,
+        "name": "Maps, resources, and insights",
+        "category": "Dashboards",
+        "body": "Esri",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.esri.com/en-us/covid-19/overview",
+        "imageName": "ESRIdb"
+    },
+    
+    {
+        "id": 1009,
+        "name": "Infographic",
+        "category": "Dashboards",
+        "body": "Tableau",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.tableau.com/covid-19-coronavirus-data-resources",
+        "imageName": "Tableaudb"
+    },
+    
+    {
+        "id": 1010,
+        "name": "Infographic",
+        "category": "Dashboards",
+        "body": "Bing",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.bing.com/covid",
+        "imageName": "Bingdb"
+    },
+    
+    {
+        "id": 1011,
+        "name": "Data",
+        "category": "Dashboards",
+        "body": "Wolfram Cloud",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.wolframcloud.com/obj/examples/COVID19World",
+        "imageName": "WCdb"
+    },
+    
+    {
+        "id": 1012,
+        "name": "Map",
+        "category": "Dashboards",
+        "body": "Open COVID-19 Data Curation Group",
+        "state": "USA/UK",
+        "isFavorite": false,
+        "site": "https://www.healthmap.org/covid-19/",
+        "imageName": "DCGdb"
+    },
+    
+    {
+        "id": 1013,
+        "name": "Infographic",
+        "category": "Dashboards",
+        "body": "Nextstrain",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://nextstrain.org/ncov/global",
+        "imageName": "NSdb"
+    },
+    
+    {
+        "id": 1014,
+        "name": "Infographic",
+        "category": "Dashboards",
+        "body": "STAT",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.statnews.com/2020/03/26/covid-19-tracker/",
+        "imageName": "STATdb"
+    },
+    
+    {
+        "id": 1015,
+        "name": "Patterns & Trends",
+        "category": "Dashboards",
+        "body": "Splunk",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://covid-19.splunkforgood.com/coronavirus__covid_19_",
+        "imageName": "Splunkdb"
+    },
+    
+    {
+        "id": 1016,
+        "name": "Infographic",
+        "category": "Dashboards",
+        "body": "Logz.io",
+        "state": "Israel",
+        "isFavorite": false,
+        "site": "https://community.logz.io/covid-19/",
+        "imageName": "Logzdb"
+    },
+    
+    {
+        "id": 1017,
+        "name": "Statistics and facts",
+        "category": "Dashboards",
+        "body": "Statista",
+        "state": "Germany",
+        "isFavorite": false,
+        "site": "https://www.statista.com/markets/412/health-pharmaceuticals/",
+        "imageName": "STdb"
+    },
+    
+    {
+        "id": 1018,
+        "name": "Tweets",
+        "category": "Dashboards",
+        "body": "Twitter",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://twitter.com/hashtag/covid19",
+        "imageName": "TWdb"
+    },
+    
+    {
+        "id": 1019,
+        "name": "Charts and stats",
+        "category": "Dashboards",
+        "body": "TradingView",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.tradingview.com/covid19/",
+        "imageName": "TVdb"
+    },
+    
+    {
+        "id": 1020,
+        "name": "Information",
+        "category": "Public information",
+        "body": "World Health Organization",
+        "state": "Switzerland",
+        "isFavorite": false,
+        "site": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+        "imageName": "WHOpi"
+    },
+    
+    {
+        "id": 1021,
+        "name": "Information",
+        "category": "Public information",
+        "body": "Centers for Disease Control and Prevention",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.cdc.gov/coronavirus/2019-nCoV/index.html",
+        "imageName": "CDCPpi"
+    },
+    
+    {
+        "id": 1022,
+        "name": "Information",
+        "category": "Public information",
+        "body": "World Organisation for Animal Health (OIE)",
+        "state": "France",
+        "isFavorite": false,
+        "site": "https://www.oie.int/scientific-expertise/specific-information-and-recommendations/questions-and-answers-on-2019novel-coronavirus/",
+        "imageName": "OIEpi"
+    },
+    
+    {
+        "id": 1023,
+        "name": "Information",
+        "category": "Public information",
+        "body": "European Centre for Disease Prevention and Control",
+        "state": "Sweden",
+        "isFavorite": false,
+        "site": "https://www.ecdc.europa.eu/en/covid-19-pandemic",
+        "imageName": "ESCAIDEpi"
+    },
+    
+    {
+        "id": 1024,
+        "name": "Information",
+        "category": "Public information",
+        "body": "World Economic Forum (WEF)",
+        "state": "Switzerland",
+        "isFavorite": false,
+        "site": "https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications",
+        "imageName": "WFpi"
+    },
+    
+    {
+        "id": 1025,
+        "name": "Trade Measures",
+        "category": "Public information",
+        "body": "International Trade Centre (ITC)",
+        "state": "Switzerland",
+        "isFavorite": false,
+        "site": "https://www.macmap.org/covid19",
+        "imageName": "ITCpi"
+    },
+    
+    {
+        "id": 1026,
+        "name": "Information",
+        "category": "Public information",
+        "body": "Ministry of Health",
+        "state": "New Zeeland",
+        "isFavorite": false,
+        "site": "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus",
+        "imageName": "NZpi"
+    },
+    
+    {
+        "id": 1027,
+        "name": "Information",
+        "category": "Public information",
+        "body": "usa.gov",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.usa.gov/coronavirus",
+        "imageName": "UGpi"
+    },
+    
+    {
+        "id": 1028,
+        "name": "Information",
+        "category": "Public information",
+        "body": "American Veterinary Medical Association(AVMA)",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19",
+        "imageName": "AVMApi"
+    },
+    
+    {
+        "id": 1029,
+        "name": "Information",
+        "category": "Public information",
+        "body": "National Health Service (NHS)",
+        "state": "UK",
+        "isFavorite": false,
+        "site": "https://www.nhs.uk/conditions/coronavirus-covid-19/",
+        "imageName": "NHSpi"
+    },
+    
+    {
+        "id": 1030,
+        "name": "Information",
+        "category": "Public information",
+        "body": "National Health Commission (NHC)",
+        "state": "China",
+        "isFavorite": false,
+        "site": "https://covid19.21wecan.com/covid19en/index.shtml",
+        "imageName": "NHCpi"
+    },
+    
+    {
+        "id": 1031,
+        "name": "Resource Center",
+        "category": "Research",
+        "body": "University of Minnesota",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.cidrap.umn.edu/covid-19",
+        "imageName": "UMr"
+    },
+    
+    {
+        "id": 1032,
+        "name": "Evidence Service",
+        "category": "Research",
+        "body": "CEBM (University of Oxford)",
+        "state": "UK",
+        "isFavorite": false,
+        "site": "http://www.cebm.net/covid-19",
+        "imageName": "CEBMr"
+    },
+    
+    {
+        "id": 1033,
+        "name": "Data",
+        "category": "Research",
+        "body": "GISAID",
+        "state": "Germany",
+        "isFavorite": false,
+        "site": "https://www.gisaid.org",
+        "imageName": "GISAIDr"
+    },
+    
+    {
+        "id": 1034,
+        "name": "Resource Center",
+        "category": "Research",
+        "body": "The Lancet",
+        "state": "NL",
+        "isFavorite": false,
+        "site": "https://www.thelancet.com/coronavirus",
+        "imageName": "LCr"
+    },
+    
+    {
+        "id": 1035,
+        "name": "Information Center",
+        "category": "Research",
+        "body": "Elsevier",
+        "state": "NL",
+        "isFavorite": false,
+        "site": "https://www.elsevier.com/connect/coronavirus-information-center",
+        "imageName": "Elr"
+    },
+    
+    {
+        "id": 1036,
+        "name": "Resource Hub",
+        "category": "Research",
+        "body": "Cell Press",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.cell.com/2019-nCOV",
+        "imageName": "CPr"
+    },
+    
+    {
+        "id": 1037,
+        "name": "Information",
+        "category": "Research",
+        "body": "The New England Journal of Medicine (NEJM)",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.nejm.org/coronavirus",
+        "imageName": "NEJMr"
+    },
+    
+    {
+        "id": 1038,
+        "name": "Preprints",
+        "category": "Research",
+        "body": "medRxiv",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://connect.medrxiv.org/relate/content/181",
+        "imageName": "MRXr"
+    },
+    
+    {
+        "id": 1039,
+        "name": "Information",
+        "category": "Research",
+        "body": "European Society of Cardiology (ESC)",
+        "state": "France",
+        "isFavorite": false,
+        "site": "https://www.escardio.org/Education/COVID-19-and-Cardiology",
+        "imageName": "ESCr"
+    },
+    
+    {
+        "id": 1040,
+        "name": "Information",
+        "category": "Research",
+        "body": "National Institutes of Health (NIH)",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.nih.gov/health-information/coronavirus",
+        "imageName": "NIHr"
+    },
+    
+    {
+        "id": 1041,
+        "name": "Dataset Challenge",
+        "category": "Research",
+        "body": "Kaggle",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge",
+        "imageName": "KGr"
+    },
+    
+    {
+        "id": 1042,
+        "name": "Selected articles",
+        "category": "Research",
+        "body": "JSTOR",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://about.jstor.org/covid19/free-covid-19-articles/",
+        "imageName": "JSTORr"
+    },
+    
+    {
+        "id": 1043,
+        "name": "Resource Center",
+        "category": "Research",
+        "body": "Harvard University",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center",
+        "imageName": "HUr"
+    },
+    
+    {
+        "id": 1044,
+        "name": "Research community",
+        "category": "Research",
+        "body": "ResearchGate",
+        "state": "Germany",
+        "isFavorite": false,
+        "site": "https://www.researchgate.net/community/COVID-19",
+        "imageName": "RGr"
+    },
+    
+    {
+        "id": 1045,
+        "name": "Research",
+        "category": "Research",
+        "body": "Geneva Centre for Education and Research in Humanitarian Action",
+        "state": "Switzerland",
+        "isFavorite": false,
+        "site": "https://www.cerahgeneve.ch/resources/covid-19-free-online-scientific-resources/",
+        "imageName": "SRr"
+    },
+    
+    {
+        "id": 1046,
+        "name": "Preprints",
+        "category": "Research",
+        "body": "Research Square",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.researchsquare.com/blog/coronavirus",
+        "imageName": "RSr"
+    },
+    
+    {
+        "id": 1047,
+        "name": "Information",
+        "category": "Research",
+        "body": "Science",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://www.sciencemag.org/collections/coronavirus?intcmp=ghd_cov#",
+        "imageName": "SCr"
+    },
+    
+    {
+        "id": 1048,
+        "name": "Information",
+        "category": "Research",
+        "body": "Oxford University Press (OUP)",
+        "state": "UK",
+        "isFavorite": false,
+        "site": "https://academic.oup.com/journals/pages/coronavirus",
+        "imageName": "OUPr"
+    },
+    
+    {
+        "id": 1049,
+        "name": "Information",
+        "category": "Research",
+        "body": "Harvard T. H. Chan",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://ccdd.hsph.harvard.edu/covid-19/",
+        "imageName": "HTHCr"
+    },
+    
+    {
+        "id": 1050,
+        "name": "Research database",
+        "category": "Research",
+        "body": "Stanford University",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://covdb.stanford.edu/search/?study=clinical-studies",
+        "imageName": "STr"
+    },
+    
+    {
+        "id": 1051,
+        "name": "COVID-19",
+        "category": "Research",
+        "body": "Allen Institute for AI",
+        "state": "USA",
+        "isFavorite": false,
+        "site": "https://allenai.org",
+        "imageName": "Air"
+    }
+]
+
